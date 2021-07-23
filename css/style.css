@@ -1,8 +1,12 @@
-.container {
+.top {
     background-image: url(/assets/backgrounds/h_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 18%;
     padding-bottom: 5%;
     text-align: center;
+    color: white;
+}
+#mouse-click {
+    animation: bounce 3s infinite;
 }
