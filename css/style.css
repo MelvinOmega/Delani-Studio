@@ -38,3 +38,11 @@ h2 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+.services {
+    background-image: url(/assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+
+}
