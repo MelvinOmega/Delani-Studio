@@ -52,3 +52,21 @@ h2 {
 #head {
     text-align: center;
 }
+.row {
+    margin-right: 15px;
+    margin-left: 15px;
+    /* display: flex;
+    flex-wrap: wrap; */
+    /* margin-top: 12px; */
+}
+#portfolio {
+    margin-left: 18%;
+    margin-right: 14%;
+}
+#contact {
+    background-image: url(/assets/backgrounds/s_image.jpg);
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+}
